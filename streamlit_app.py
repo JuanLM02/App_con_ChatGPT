@@ -1,6 +1,5 @@
 # App_con_ChatGPT
 
-pip install streamlit
 
 # Importar la biblioteca Streamlit
 import streamlit as st
